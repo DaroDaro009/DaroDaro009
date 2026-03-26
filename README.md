@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Daro 👋
 
-<!--
-**DaroDaro009/DaroDaro009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am learning AI Engineering, Machine Learning, and Automation.
+I like building AI tools, automation scripts, and web apps.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Python
+- Machine Learning
+- Deep Learning
+- LLM / Generative AI
+- FastAPI
+- Docker
+- Cloud Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 AI Projects (Coming Soon)
+- AI Data Analysis
+- Machine Learning Prediction Model
+- AI Chatbot
+- PDF Q&A Bot (RAG)
+- AI Web App
+- AI SaaS Tool
+
+## 🛠 Tools & Technologies
+- Python
+- Pandas
+- Scikit-learn
+- PyTorch
+- FastAPI
+- Docker
+- Git
+- PostgreSQL
+
+## 📫 Contact
+- GitHub: https://github.com/DaroDaro009
+
+## 🎯 Goal
+Become an AI Engineer and build AI SaaS products.
